@@ -1,5 +1,11 @@
 package learn2;
 
+/*
+*
+* 方法重载与参数类型无关
+* 与方法的返回值类型无关
+* */
+
 public class Demo01Method {
     public static void main(String[] args) {
         printMethod();
@@ -25,6 +31,11 @@ public class Demo01Method {
     public static int sum(int a, int b, int c){
         return a + b + c;
     }
+
+/*  错误写法！！ 与方法的返回值无关
+    public static int double(int a, int b, int c){
+        return a + b + c;
+    }*/
 
     public static double sum(double a, double b){
         return  a + b;
