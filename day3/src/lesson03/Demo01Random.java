@@ -1,4 +1,4 @@
-package demo03;
+package lesson03;
 
 /*
 *Random类用来生成随机数字， 使用起来也是三个步骤
