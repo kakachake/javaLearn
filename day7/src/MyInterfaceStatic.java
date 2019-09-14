@@ -9,5 +9,9 @@
 
 public interface MyInterfaceStatic {
 
+    //public 可以省略
+    public static void methodStatic() {
+        System.out.println("这是接口的静态方法");
+    }
 
 }
