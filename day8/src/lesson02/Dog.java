@@ -1,6 +1,6 @@
 package lesson02;
 
-public class Dog extends Animal {
+public class Dog implements Animal {
     public void eat(){
         System.out.println("狗吃肉");
     }

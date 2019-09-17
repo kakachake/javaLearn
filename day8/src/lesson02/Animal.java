@@ -1,6 +1,6 @@
 package lesson02;
 
-public abstract class Animal {
+public interface  Animal {
 
     public abstract void eat();
 }
