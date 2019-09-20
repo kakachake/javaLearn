@@ -1,7 +1,9 @@
 package lesson02;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
+import java.util.HashSet;
 
 /*
 *
@@ -23,14 +25,25 @@ public class Demo02 {
 
     public static void main(String[] args) {
         //创建集合对象，可以使用多态
-        Collection<String> coll = new ArrayList<>();
+//        Collection<String> coll = new ArrayList<>();
+        Collection<String> coll = new HashSet<>();
+
         /*
         * public boolean add(E e)：把给定的对象添加到当前的集合中
         * 返回值是一个布尔类型，一般都返回true,可以不接收
         * */
         coll.add("abc");
         coll.add("123");
+        coll.add("张三");
         System.out.println(coll);//重写了toString方法
-        
+        System.out.println(coll.size());//3
+        System.out.println(coll.isEmpty()); //false
+        System.out.println(coll.contains("123"));//true
+        coll.remove("123");
+        System.out.println(coll.contains("123"));//false
+        Object[] arr = coll.toArray(); //存储到数组
+        System.out.println(Arrays.toString(arr));
+        coll.clear();
+        System.out.println(coll);
     }
 }
