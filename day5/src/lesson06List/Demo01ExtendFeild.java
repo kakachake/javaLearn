@@ -1,4 +1,4 @@
-package lesson06;
+package lesson06List;
 
 /*
 * 局部变量：      直接写

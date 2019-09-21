@@ -8,10 +8,9 @@ package lesson04;
 *
 * */
 
-public class GenericInterfaceImpl2 implements GenericInterface<String>{
-
+public class GenericInterfaceImpl2<E> implements GenericInterface<E>{
     @Override
-    public String method(String res) {
+    public E method(E res) {
         return res;
     }
 }

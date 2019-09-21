@@ -1,4 +1,4 @@
-package lesson06;
+package lesson06List;
 
 public class SonClass extends FatherClass {
     int num = 10;

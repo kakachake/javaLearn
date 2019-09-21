@@ -15,7 +15,7 @@ public class RandomMode implements OpenMode {
         //首先创建一个随机生成器
         // totalMoney是总金额，totalCount是总个数
         // 额外定义两个变量，分别代表剩下多少钱，剩下多少份
-        int leftMoney = totalMoney;
+        int leftMoney = totalMoney-1;
         int leftTotal = totalCount;
 
         for (int i = 0; i < totalCount-1; i++) {
@@ -24,14 +24,16 @@ public class RandomMode implements OpenMode {
             leftMoney -= randomMoney;
             leftTotal--;
         }
-        list.add(leftMoney);
+        list.add(leftMoney+1);
         return list;
     }
 
     public int getRandomMoney(int leftMoney, int leftTotal) {
         int randomMoney;
         Random r = new Random();
-        randomMoney = 1+r.nextInt(leftMoney / leftTotal * 2);
+        double max = (double)leftMoney / leftTotal * 2.0;
+        System.out.println(max);
+        randomMoney = 1+r.nextInt((int)max);
         return randomMoney;
     }
 }
