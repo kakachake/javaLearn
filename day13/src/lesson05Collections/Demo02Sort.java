@@ -1,6 +1,7 @@
 package lesson05Collections;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 
@@ -30,6 +31,7 @@ public class Demo02Sort {
 
         //自定义排序规则--降序
         Collections.sort(list, new Comparator<Integer>() {
+            //重写比较规则
             @Override
             public int compare(Integer o1, Integer o2) {
                 return o2-o1;

@@ -11,6 +11,9 @@ package lesson03;
 *   for(集合/数组数据类型 变量名: 集合名/数组名){
 *       sout(变量名)
 *   }
+*
+* 实际上：增强for循环就是简化了的Iterator的写法.
+* 他们最终编译生成的代码是相同的
 * */
 
 import java.util.ArrayList;
