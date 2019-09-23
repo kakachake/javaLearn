@@ -4,6 +4,9 @@ import java.util.ArrayList;
 
 /*
 * 异常的注意事项
+* 1.运行时异常被抛出可以不处理，即不捕获也不声明抛出
+* 2.如果finally有return语句, 永远返回finally中的结果，避免该情况
+* 3.
 * */
 public class Demo05Exception {
     public static void main(String[] args) {
