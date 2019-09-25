@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/day14/src/lesson01Debug/Demo03Throws.java" line="69" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda6f6ef-2a15-4e6d-9eb1-7e7593976134" name="Default" comment="" />
+    <list default="true" id="fda6f6ef-2a15-4e6d-9eb1-7e7593976134" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +22,9 @@
       <file leaf-file-name="Demo01WaitAndNotify.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day15/src/waitAndNotify/Demo01WaitAndNotify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-              <folding>
-                <element signature="e#608#1176#0" expanded="true" />
-                <element signature="e#1233#1840#0" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -34,7 +32,7 @@
       <file leaf-file-name="RunableImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day15/src/lesson04Synchronized/RunableImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
+            <state relative-caret-position="525">
               <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding />
             </state>
@@ -44,8 +42,8 @@
       <file leaf-file-name="RunableImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/RunableImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            <state relative-caret-position="630">
+              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -170,7 +168,7 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -193,47 +191,7 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson03Synchronized" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson04Synchronized" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson05Synchronized" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="waitAndNotify" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-excluded-files" value="false" />
-      </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -245,9 +203,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day15" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -548,12 +521,13 @@
       <workItem from="1569027162994" duration="9341000" />
       <workItem from="1569052782994" duration="43351000" />
       <workItem from="1569249684939" duration="1341000" />
-      <workItem from="1569326090011" duration="12934000" />
+      <workItem from="1569326090011" duration="12945000" />
+      <workItem from="1569381775578" duration="1314000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241360000" />
+    <option name="totallyTimeSpent" value="242685000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,23 +539,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280899" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.50869566" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3258427" sideWeight="0.49130434" order="2" side_tool="false" content_ui="tabs" x="964" y="381" width="952" height="284" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.49130434" order="2" side_tool="false" content_ui="tabs" x="964" y="381" width="952" height="284" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19474836" sideWeight="0.48202246" order="5" side_tool="false" content_ui="combo" x="833" y="192" width="253" height="656" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19912472" sideWeight="0.48202246" order="5" side_tool="false" content_ui="combo" x="833" y="192" width="253" height="656" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494432" sideWeight="0.48651686" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -593,6 +566,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280899" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -777,10 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="1406" column="36" lean-forward="false" selection-start-line="1406" selection-start-column="30" selection-end-line="1406" selection-end-column="36" />
-          <folding>
-            <element signature="e#56437#56438#0" expanded="false" />
-            <element signature="e#56514#56515#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,7 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,16 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#398#399#0" expanded="false" />
-            <element signature="e#438#439#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-            <element signature="e#497#498#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#558#559#0" expanded="false" />
-            <element signature="e#588#589#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -880,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -888,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="29" column="40" lean-forward="false" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -904,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -912,10 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#353#584#0" expanded="false" />
-            <element signature="e#583#584#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -923,7 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,39 +894,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/lesson03Synchronized/Demo01Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/lesson03Synchronized/RunableImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day15/src/lesson04Synchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/lesson03Synchronized/Demo01Ticket.java" />
+    <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/lesson03Synchronized/RunableImpl.java" />
+    <entry file="file://$PROJECT_DIR$/day15/src/lesson04Synchronized.java" />
     <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/Demo01Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,23 +911,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day15/src/lesson05Synchronized.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day15/src/lesson05Synchronized.java" />
     <entry file="file://$PROJECT_DIR$/day15/src/lesson05Synchronized/Demo01Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,9 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="40" column="31" lean-forward="true" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1021,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,13 +940,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day15/src/waitAndNotify/Demo01WaitAndNotify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day15/src/lesson04Synchronized/RunableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
+        <state relative-caret-position="525">
           <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding />
         </state>
@@ -1043,21 +961,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day15/src/lesson03Synchronized/RunableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="630">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day15/src/waitAndNotify/Demo01WaitAndNotify.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding>
-            <element signature="e#608#1176#0" expanded="true" />
-            <element signature="e#1233#1840#0" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
