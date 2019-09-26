@@ -43,6 +43,8 @@ public class Demo01Thread {
         System.out.println(task.count);
         //调用shutdown方法摧毁线程池
         es.shutdown();
+
+
     }
 
 }
