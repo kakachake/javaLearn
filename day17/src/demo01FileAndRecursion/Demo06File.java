@@ -15,17 +15,36 @@ import java.util.Arrays;
 public class Demo06File {
 
     public static void main(String[] args) {
-        show01();
-        show02();
+//        show01();
+//        show02("D:\\java\\sharelink0-540460780915549\\黑马57\\01 语言基础+高级\\1-3-Java语言高级\\06-File类与IO流");
+        search("D:\\java\\sharelink0-540460780915549\\黑马57\\01 语言基础+高级\\1-3-Java语言高级\\06-File类与IO流","1_8_4_02一切皆为字节.avi");
     }
 
     //public File[] listFiles() ：返回一个File数组，表示该File目录中的所有的子文件或目录。
     //会获取目录中所有的文件/文件夹，把文件/文件夹封装为File对象，存储到File数组中
-    private static void show02() {
+    private static void show02(String path) {
+        File[] arr = new File(path).listFiles(); //对目录进行遍历
+        for (File file1 : arr) {
+            if(file1.isDirectory()){
+                show02(file1.getAbsolutePath());
+            }else{
+                System.out.println(file1);
+            }
+        }
+    }
 
-        File file = new File("D:\\java\\sharelink0-540460780915549\\黑马57\\01 语言基础+高级\\1-3-Java语言高级\\06-File类与IO流\\01 File类");
-        File[] arr = file.listFiles(); //对目录进行遍历
-        System.out.println(Arrays.toString(arr));//绝对路径
+    private static void search(String path, String name) {
+        File[] arr = new File(path).listFiles(); //对目录进行遍历
+        for (File file1 : arr) {
+            if(file1.isDirectory()){
+                search(file1.getAbsolutePath(), name);
+            }else{
+//                System.out.println(file1.getName());
+                if(name.equals(file1.getName())){
+                    System.out.println(file1);
+                }
+            }
+        }
     }
 
     /*
