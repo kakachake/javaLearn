@@ -29,5 +29,7 @@ public class Demo02StreamFilter {
         arr.forEach((item)->{
             System.out.println(item); //报错，已经被使用过
         });
+
+
     }
 }
